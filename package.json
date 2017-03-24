@@ -1,0 +1,8 @@
+{
+  "name": "users",
+  "dependencies": {
+    "angular-route": "^1.6.3",
+    "body-parser": "^1.10.1",
+    "express": "^4.10.0"
+  }
+}
